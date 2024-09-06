@@ -29,3 +29,10 @@
 
 ## Ref
 - https://youtu.be/lX-3nGHDhQg?si=okTjWn4hCtGCApGl
+
+## Setup
+- `make env`
+- `make startenv`
+- `pip install pandas numpy`
+- `pip install notebook`
+- `jupyter notebook`
