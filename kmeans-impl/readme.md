@@ -12,11 +12,12 @@
     - Repeat steps 2-4 until the clusters do not change
 
 ## Misc
+- Literally, everything is a data point. e.g. a person, a house, a transaction...
 - Data point:
     - 1 dimension: line
     - 2 dimension: 2d (x, y)
     - 3 dimension: 3d (x, y, z)
-    - n dimension: vector(x1, x2, x3, ..., xn) -> where n is the number of features
+    - n dimension: vector(x1, x2, x3, ..., xn) -> where n is the number of features (age, gender, income, etc.)
 - How to calculate distance between data points?
     - Euclidean distance:
         - 1 dimension: |x1 - x2|
